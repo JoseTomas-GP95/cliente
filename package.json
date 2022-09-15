@@ -1,5 +1,5 @@
 {
-  "homepage": "https://JoseTomas-GP95.github.io/cliente",
+  "homepage": "https://JoseTomas-GP95.github.io/snowpack-template-tailwind",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
